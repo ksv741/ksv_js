@@ -1,0 +1,17 @@
+.ksv_accord{
+  /* max-height: 0; */
+  overflow: hidden;
+  transition: 0.8s;
+}
+.panel-collapse{
+  transition: 0.8s;
+  overflow: hidden;
+}
+.tab-active{
+  display: block;
+  transition: 0.8s;
+}
+.tab-nonactive{
+  display: none;
+  transition: 0.8s;
+}
